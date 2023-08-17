@@ -1,5 +1,6 @@
 import { createStore } from 'redux'
 import alfajor from './img/alfajor.jpg'
+import prueba from './img/PRUEBA.png'
 import empanadas from './img/Empanadas.jpg'
 import keke from './img/keke3.jpg'
 import pastel from './img/pastel.jpg'
@@ -25,6 +26,11 @@ const initialState = {
       image: pastel,
       price: '16.0',
     },
+    {
+      name: 'PRUEBA - CAJA DE 25 ALFAJORES',
+      image: prueba,
+      price: '26.0',
+    }
   ],
 }
 

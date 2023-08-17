@@ -8,7 +8,7 @@ const initialState = {
     {
       name: 'ALFAJOR DE MAISENA - CAJA DE 25 ALFAJORES',
       image: alfajor,
-      price: '5',
+      price: '6',
     },
     {
       name: 'CAJA DE EMPANADAS',

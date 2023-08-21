@@ -3,7 +3,7 @@ import alfajor from './img/alfajor.jpg'
 import milhojas from './img/milojas.jpg'
 import empanadas from './img/Empanadas.jpg'
 import pionono from './img/pionono.jpg'
-import keke from './img/keke3.jpg'
+import tortachoco from './img/tortadechocolate.png'
 import pastel from './img/pastel.jpg'
 import orejitas from './img/orejita.jpg'
 import brownies from './img/brownies.jpg'
@@ -22,7 +22,7 @@ const initialState = {
     },
     {
       name: 'TORTA DE CHOCOLATE',
-      image: keke,
+      image: tortachoco,
       price: '14.0',
     },
     {

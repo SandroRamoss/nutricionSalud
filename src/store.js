@@ -6,6 +6,7 @@ import pionono from './img/pionono.jpg'
 import keke from './img/keke3.jpg'
 import pastel from './img/pastel.jpg'
 import orejitas from './img/orejita.jpg'
+import brownies from './img/brownies.jpg'
 
 const initialState = {
   productos: [
@@ -43,7 +44,17 @@ const initialState = {
       name: 'BOCADITOS DULCES - OREJITAS',
       image: orejitas,
       price: '42.0',
-    }
+    },
+    {
+      name: 'BOCADITOS DULCES - BROWNIES',
+      image: brownies,
+      price: '58.0',
+    },
+    {
+      name: 'BOCADITOS DULCES - ALFAJORES',
+      image: alfajor,
+      price: '40.0',
+    },
   ],
 }
 

@@ -93,7 +93,7 @@ function App() {
             </Switch>
           </StretchDiv>
           <Footer>
-            Todos los derechos reservados 2020 | Productos N&S S.A.C. Lima-Perú
+            Todos los derechos reservados 2023 | Productos N&S S.A.C. Lima-Perú
           </Footer>
         </MainContainer>
       </Router>

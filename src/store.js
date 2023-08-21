@@ -5,27 +5,27 @@ import empanadas from './img/Empanadas.jpg'
 import pionono from './img/pionono.jpg'
 import keke from './img/keke3.jpg'
 import pastel from './img/pastel.jpg'
-import orejitas from './img/orejitas.jpg'
+import orejitas from './img/orejita.jpg'
 
 const initialState = {
   productos: [
     {
-      name: 'ALFAJOR DE MAISENA - CAJA DE 25 ALFAJORES',
+      name: 'ALFAJOR DE MAISENA - CAJA DE 22 UND.',
       image: alfajor,
       price: '6.0',
     },
     {
-      name: 'CAJA DE EMPANADAS',
+      name: 'EMPANADAS - CAJA DE 6 UND.',
       image: empanadas,
-      price: '15.0',
+      price: '18.0',
     },
     {
-      name: 'KEKE DE CHOCOLATE',
+      name: 'TORTA DE CHOCOLATE',
       image: keke,
-      price: '16.0',
+      price: '14.0',
     },
     {
-      name: 'PASTEL',
+      name: 'PASTEL DE ACELGAS',
       image: pastel,
       price: '16.0',
     },

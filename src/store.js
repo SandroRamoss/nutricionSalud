@@ -2,8 +2,11 @@ import { createStore } from 'redux'
 import alfajor from './img/alfajor.jpg'
 import milhojas from './img/milojas.jpg'
 import empanadas from './img/Empanadas.jpg'
+import pionono from './img/pionono.jpg'
 import keke from './img/keke3.jpg'
 import pastel from './img/pastel.jpg'
+import orejitas from './img/orejitas.jpg'
+
 const initialState = {
   productos: [
     {
@@ -29,6 +32,16 @@ const initialState = {
     {
       name: 'BOCADITOS DULCES - MILHOJAS',
       image: milhojas,
+      price: '42.0',
+    },
+    {
+      name: 'BOCADITOS DULCES - PIONONOS',
+      image: pionono,
+      price: '42.0',
+    },
+    {
+      name: 'BOCADITOS DULCES - OREJITAS',
+      image: orejitas,
       price: '42.0',
     }
   ],

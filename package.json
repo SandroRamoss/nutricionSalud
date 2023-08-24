@@ -2,7 +2,6 @@
   "name": "pasteleria",
   "version": "0.1.0",
   "private": true,
-
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
@@ -18,7 +17,7 @@
     "react-normalize": "^0.4.4",
     "react-redux": "^7.2.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^5.0.1",
     "react-svg": "^11.0.27",
     "redux": "^4.0.5",
     "shortid": "^2.2.15",
@@ -32,9 +31,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": "@imaginary-cloud/react"
-  },
   "prettier": "@imaginary-cloud/prettier-config",
   "browserslist": {
     "production": [
@@ -47,16 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@imaginary-cloud/eslint-config-react": "^1.0.1",
-    "eslint-config-airbnb": "^18.2.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^2.5.1",
-    "prettier": "^2.0.5"
   }
 }

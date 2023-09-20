@@ -3,7 +3,6 @@ import alfajor from './img/alfajor.jpg'
 import milhojas from './img/milojas.jpg'
 import pionono from './img/pionono.jpg'
 import tortachoco from './img/tortadechocolate.png'
-import pastel from './img/pastel.jpg'
 import orejitas from './img/orejita.jpg'
 import brownies from './img/brownies.jpg'
 import kekeplatano from './img/kekeplatano.jpg'
@@ -29,7 +28,7 @@ const initialState = {
     },
     {
       name: 'PASTEL DE ACELGAS',
-      image: pastel,
+      image: 'https://www.provechoencasa.pe/cdn/shop/products/photo_20210907112931.jpg?v=1643514540',
       price: '16.0',
     },
     {

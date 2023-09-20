@@ -8,6 +8,7 @@ import pastel from './img/pastel.jpg'
 import orejitas from './img/orejita.jpg'
 import brownies from './img/brownies.jpg'
 import kekeplatano from './img/kekeplatano.jpg'
+import kekechoco from './img/kekechocolate.png'
 
 const initialState = {
   productos: [
@@ -91,6 +92,16 @@ const initialState = {
       image:  kekeplatano,
       price: '11.0',
     },
+    {
+      name: 'KEKE CHOCOLATE',
+      image:  kekechoco,
+      price: '11.0',
+    },
+    {
+      name: 'KEKE MARMOLEADO',
+      image:  'https://cocinandosalud.com.ar/wp-content/uploads/2021/03/Budin-marmolado-1-scaled.jpg',
+      price: '11.0',
+    }
   ],
 }
 

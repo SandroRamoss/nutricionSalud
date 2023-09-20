@@ -1,14 +1,13 @@
 import { createStore } from 'redux'
 import alfajor from './img/alfajor.jpg'
 import milhojas from './img/milojas.jpg'
-import empanadas from './img/Empanadas.jpg'
 import pionono from './img/pionono.jpg'
 import tortachoco from './img/tortadechocolate.png'
 import pastel from './img/pastel.jpg'
 import orejitas from './img/orejita.jpg'
 import brownies from './img/brownies.jpg'
 import kekeplatano from './img/kekeplatano.jpg'
-import kekechoco from './img/kekechocolate.png'
+import kekechoco from './img/kekechocolate.jpg'
 
 const initialState = {
   productos: [

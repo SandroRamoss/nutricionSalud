@@ -8,6 +8,7 @@ import orejitas from './img/orejita.jpg'
 import brownies from './img/brownies.jpg'
 import kekeplatano from './img/kekeplatano.jpg'
 import kekechoco from './img/kekechocolate.jpg'
+import kekechoco from './img/Alfajores100.png'
 
 const initialState = {
   productos: [
